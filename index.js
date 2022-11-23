@@ -10,7 +10,7 @@ function scuberGreetingForFeet(feet){
     return "No can do."
   }
 
-  // Write your code here!
+  
 }
 feet(199); 
 feet(2001); 
@@ -20,7 +20,7 @@ feet(2501);
 function ternaryCheckCity(NYC, Pittsburgh){
 let city = NYC; 
 return city === 'NYC' ? "Ok, sounds good." : "No go."
-  // Write your code here!
+
 }
 
 function switchOnCharmFromTip(tip){  
